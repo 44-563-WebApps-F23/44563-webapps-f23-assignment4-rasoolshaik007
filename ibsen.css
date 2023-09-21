@@ -1,6 +1,7 @@
 .speech{
     font-size:15px; 
-    color: black; }
+    color: black; 
+}
 .direction{
     font-size: 15px; 
     color:black;
@@ -12,7 +13,7 @@
 }
 .name{
     font-size: 20px;
-    color:chocolate;
+    color:green;
 }
 .solness{
     font-size: 15px;
@@ -20,4 +21,25 @@
 }
 .hilda{
     font-size: 15px;
-    color:blueviolet; }
+    color:blueviolet; 
+}
+table{
+    border: solid;
+    border-color: black;
+    width: 50%;
+}
+th, td{
+    border: solid 1px;
+    border-color: black;
+    text-align: center;
+    margin: 1em;
+    padding: 1em;
+
+}
+tr:nth-child(odd){
+    background-color: deepskyblue;
+}
+tr:nth-child(even){
+    background-color: darksalmon;
+}
+
