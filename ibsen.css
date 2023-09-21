@@ -1,0 +1,23 @@
+.speech{
+    font-size:15px; 
+    color: black; }
+.direction{
+    font-size: 15px; 
+    color:black;
+    background-color: lightblue;
+}
+.direction:hover{
+    background-color: lavender; 
+    color:azure
+}
+.name{
+    font-size: 20px;
+    color:chocolate;
+}
+.solness{
+    font-size: 15px;
+    color:crimson;
+}
+.hilda{
+    font-size: 15px;
+    color:blueviolet; }
