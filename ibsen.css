@@ -44,3 +44,16 @@ tr:nth-child(even){
     font-size: 15px;
     color: purple;
 }
+.solness:hover{
+    text-shadow: 3px 3px #666;
+    border: solid 1px #545454;
+}
+.hilda:hover{
+    text-shadow: 3px 3px #777;
+    border: solid 1px #656565
+
+}
+.herdal:hover{
+    text-shadow: 3px 3px #888;
+    border: solid 1px #767676;
+}
