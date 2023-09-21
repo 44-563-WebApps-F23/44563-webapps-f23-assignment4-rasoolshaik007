@@ -1,14 +1,13 @@
 .speech{
     font-size:15px; 
-    color: black; 
-}
+    color: black; }
 .direction{
     font-size: 15px; 
     color:black;
     background-color: lightblue;
 }
 .direction:hover{
-    background-color: lavender; 
+    background-color: black;
     color:azure
 }
 .name{
@@ -21,8 +20,7 @@
 }
 .hilda{
     font-size: 15px;
-    color:blueviolet; 
-}
+    color:blueviolet; }
 table{
     border: solid;
     border-color: black;
@@ -42,4 +40,7 @@ tr:nth-child(odd){
 tr:nth-child(even){
     background-color: darksalmon;
 }
-
+.herdal{
+    font-size: 15px;
+    color: purple;
+}
